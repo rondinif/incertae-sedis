@@ -1,0 +1,862 @@
+{
+  "head" : {
+    "vars" : [ "item", "itemLabel", "linkTo" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82611"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen coum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4296284"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q149344"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen purpurascens"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q150055"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen persicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q646978"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen rohlfsianum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q762771"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen cilicium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q832439"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen africanum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q920271"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen repandum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1965935"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen hederifolium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2164960"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen pseudibericum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2234185"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen cyprium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2547361"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen graecum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2674645"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen libanoticum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3436919"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen elegans"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3437699"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen alpinum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3437733"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen parviflorum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3440344"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen balearicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3445775"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen intaminatum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5198111"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen colchicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5198112"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen creticum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5198115"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen mirabile"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5198116"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen rhodium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15221374"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen somalense"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15222682"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen abchasicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15337438"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen adzharicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15337670"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen circassicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19751529"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen rhodium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21369888"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × atkinsii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21369890"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × hildebrandii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381870"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381898"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen ser. Cilicium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381872"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381897"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen ser. Cyclamen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381874"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381897"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen ser. Graecum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381876"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381898"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen ser. Pubipedia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381878"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381897"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen ser. Purpurascens"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381896"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen subg. Corticata"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381897"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen subg. Cyclamen"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381898"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen subg. Gyrophoebe"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381899"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen subg. Psilanthum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383264"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82611"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen coum caucasicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383265"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q82611"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen coum coum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383266"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2547361"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen graecum anatolicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383267"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2547361"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen graecum graecum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383268"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2547361"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen graecum mindleri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383269"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q920271"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen repandum peloponnesiacum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21383270"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q920271"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen repandum repandum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21872978"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen europaeum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21872981"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen indicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22133353"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q920271"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen repandum var. repandum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22133367"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19751529"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen rhodium subsp. vividum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22133381"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19751529"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen rhodium subsp. peloponnesiacum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23057080"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen confusum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23069759"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2547361"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen graecum subsp. candicum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23069760"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19751529"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen rhodium subsp. rhodium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23069809"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1965935"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen hederifolium subsp. hederifolium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23069810"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1965935"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen hederifolium subsp. crassifolium"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25414358"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21381898"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen ser. Pseudibericum"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25414689"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × drydeniae"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25414700"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × meiklei"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25414713"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × saundersiae"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25414804"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × schwarzii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q25414827"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q147295"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cyclamen × whiteae"
+      }
+    } ]
+  }
+}

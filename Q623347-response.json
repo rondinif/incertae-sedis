@@ -1,0 +1,554 @@
+{
+  "head" : {
+    "vars" : [ "item", "itemLabel", "linkTo" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q162802"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q882424"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta sieboldiana"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1531834"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta ventricosa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2557297"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta sieboldii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5909269"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta capitata"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5909272"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta cathayana"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5909275"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta 'Undulata'"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5909280"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta fluctuans"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5909284"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta minor"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5909287"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta yingeri"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10869604"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta ensata"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11222293"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta plantaginea"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q11291783"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta montana"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q12060543"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta kiyosumiensis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15227560"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta albo-marginata"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15296283"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta laevigata"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15296286"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta nigrescens"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517381"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta albofarinosa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517498"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta clausa"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517563"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta gracillima"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517582"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta rectifolia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517641"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta hypoleuca"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517667"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta rupifraga"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517744"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta jonesii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517758"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta shikokiana"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517818"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta kikutii"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517939"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta longipes"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15517997"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta longissima"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15518008"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta tsushimensis"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15518144"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta venusta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15518221"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta pulchella"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15518305"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta pycnophylla"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17482746"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta lancifolia"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21377513"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21382188"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta sect. Helipteroides"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21377515"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21382186"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta sect. Lamellatae"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21382186"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta subg. Bryocles"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21382188"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta subg. Giboshi"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21382190"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta subg. Hosta"
+      }
+    }, {
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23701777"
+      },
+      "linkTo" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q623347"
+      },
+      "itemLabel" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Hosta helonioides"
+      }
+    } ]
+  }
+}
