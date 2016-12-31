@@ -42,7 +42,7 @@ alcune funzionalità caratteristiche disponibili nel pacchetto opensource "incer
 2) produci un elenco testuale corrispondente alla lista dei taxa che hanno lo stesso parent del taxa dato ( esempio della stessa specie )
 3) visualizza un elenco di immagini per le principali specie    
 
-[vedi lo **svolgimento** di questa prima parte](./tut-rpt-p1.it.md)
+[vedi lo **svolgimento** di questa prima parte](./tut-rpt-p1-it.md)
 
 Se partiamo dall'identificatore della **specie** possiamo ricavare facilmente
 all'identificatore del **genere** di appartenenza.
