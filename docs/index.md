@@ -29,6 +29,7 @@ A set of documents related to **Software Developer LifeCycle** in English langua
 - [glo](./glo.md)
 
 # Tutorials
-Tutorials are available in [Italian](tut-it.md) , [English](tut-en.md)
+Tutorials are available in [Italian](tut-it.md) and in [English](tut-en.md)
 ## RPT – reverse parent taxon 
--[tut-rpt-it](./tut-rpt-it.md)  -[tut-rpt-en](./tut-rpt-ed.md)
+- [tut-rpt-it](./tut-rpt-it.md)  
+- [tut-rpt-en](./tut-rpt-ed.md)

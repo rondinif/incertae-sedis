@@ -1,7 +1,7 @@
 **DRAFT For discussion purposes only; subject to further review**
 Nota bene: questo è solo esempio di come potrebbero essere strutturati i tutorials per questo progetto 
 
-# Esempiod di esposizione del problema/caso d'uso 
+# Esempio di esposizione del problema/caso d'uso 
 Siamo in Italia, è autunno e durante una passeggiata in campagna vediamo belle **margheritone gialle** , 
 ci piace molto ma non la conosciamo, in paricolare vorremmo sapere:
   - se è possibile coltivare questa pianta nel nostro giardino, come fare. 
