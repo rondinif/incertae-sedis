@@ -22,19 +22,21 @@ to try to get five minutes of satisfaction to our hunger for knowledge.
 
 Features
 --------
+**the project is currently in incubation; It should simply be considered a playground where you can exercise with some areas of interest.** 
 
 1. **TBD** To be defined ( and to be done )
      
-    2017 Jan 01 is the date planned for the definition of a first requirements draft.
+    2017 Jan is the date planned for the definition of a first requirements draft.
+    (branch: **requirements-draft** is currently available for changes)
     
 2. **TBD**
 
-    2017 Mar 21 is the date planned for the more definitive requirements draft 
+    2017 Mar is the date planned for the more definitive requirements draft 
     and a first alpha preview of the first draft.
 
 3. **TDB**
 
-    2017 Sep 21 is the date planned for a first usable set of tools.
+    2017 Sep is the date planned for a first usable set of tools.
 
 
 Tools
