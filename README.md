@@ -84,8 +84,54 @@ Usage & Development
 
 If you are considering developing a port for **incertae sedis**, 
 please wait for the a more stable version. 
+In the while consider [Contributing](#Contributing) to our [open source projects on Github](https://github.com/rondinif/incertae-sedis).  
+
+
+Disclaimer
+----------
+
+The **incertae-sedis** project it is only a POC. 
+It's obviously missing lots of features. 
+
+Please open issues to discuss any feature you want to be added, 
+submit suggestions, or anything else...
+All contributions are welcome ;)
+
+
+Issues
+------
+
+Feel free [to submit issues and enhancement requests](https://github.com/rondinif/incertae-sedis/issues/new) .
+<a href="https://github.com/rondinif/incertae-sedis/issues/new" 
+   class="btn btn-primary float-right" role="button" data-hotkey="c">
+            New issue
+</a>
+
+
+Contributing
+------------
+
+<!--Please refer to  project's style guidelines and guidelines for submitting patches and additions -->
+ follow the "fork-and-pull" Git workflow.
+
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Commit** changes to your own branch
+ 4. **Push** your work back up to your fork
+ 5. Submit a **Pull request** so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+Copyright and Licensing
+-----------------------
+
+[BSD 2-Clause License](./LICENCE)
 
 Questions 
----------
+---------------
 
+### FAQ
+**TBD** 
+
+### Other questions
 Feel free to [Contact the author at StackOverflow](http://stackoverflow.com/users/1657028/franco-rondini)
