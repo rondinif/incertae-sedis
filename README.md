@@ -89,3 +89,13 @@ Questions
 ---------
 
 Feel free to [Contact the author at StackOverflow](http://stackoverflow.com/users/1657028/franco-rondini)
+
+Disclaimer
+----------
+
+The **incertae-sedis** project it is only a POC. 
+It's obviously missing lots of features. 
+
+Please open issues to discuss any feature you want to be added, 
+submit suggestions, or anything else...
+All contributions are welcome ;)
