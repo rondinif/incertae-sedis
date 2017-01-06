@@ -101,7 +101,8 @@ All contributions are welcome ;)
 Issues
 ------
 
-Feel free [to submit issues and enhancement requests](https://github.com/rondinif/incertae-sedis/issues/new) .
+Feel free [to submit issues and enhancement requests](https://github.com/rondinif/incertae-sedis/issues/new).
+
 <a href="https://github.com/rondinif/incertae-sedis/issues/new" 
    class="btn btn-primary float-right" role="button" data-hotkey="c">
             New issue
@@ -125,7 +126,7 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 Copyright and Licensing
 -----------------------
 
-[BSD 2-Clause License](./LICENCE)
+[BSD 2-Clause License](./LICENSE)
 
 Questions 
 ---------------
