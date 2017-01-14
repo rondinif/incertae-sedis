@@ -10,7 +10,7 @@ const propTypes = {
 
 function App({ children, routes }) {
   function generateMapMenu() {
-    let path = '';
+    let path = '/';
 
     function nextPath(route) {
       path += (
