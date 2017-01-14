@@ -30,7 +30,7 @@ function Home() {
         <Interactive
           as={Link}
           {...s.link}
-          to="example"
+          to="/incertae-sedis/example"
         >Example page</Interactive>
       </div>
       <div style={s.pageLinkContainer}>
