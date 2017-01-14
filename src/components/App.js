@@ -9,32 +9,30 @@ const propTypes = {
 };
 
 function App({ children, routes }) {
+  
   function generateMapMenu() {
-    let path = '/';
+    let path = '';
+    let index = 'home'
 
     function nextPath(route) {
       path += (
         (path.slice(-1) === '/' ? '' : '/') +
-        (route.path === '/' ? '' : route.path)
+        (route.path === 'incertae-sedis' ? '' : route.path)
       );
       return path;
     }
 
-    return (
-      routes.filter(route => route.mapMenuTitle)
-        .map((route, index, array) => (
-          <span key={index}>
-            <Interactive
-              as={Link}
-              {...s.link}
-              to={nextPath(route)}
-            >{route.mapMenuTitle}</Interactive>
-            {(index + 1) < array.length && ' / '}
-          </span>
-        ))
+    return(
+      <span key={index}>
+        <Interactive
+          as={Link}
+          {...s.link}
+          to="/incertae-sedis"
+        >Home</Interactive>
+      </span>
     );
   }
-
+  
 
   return (
     <div style={s.root}>
@@ -46,7 +44,7 @@ function App({ children, routes }) {
         {...s.link}
       >https://github.com/rondinif/incertae-sedis</Interactive>
       <nav style={s.mapMenu}>
-        {generateMapMenu()}
+         {generateMapMenu()}
       </nav>
       {children}
       <div style={s.creditLine}>
