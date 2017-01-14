@@ -10,7 +10,7 @@ import ExampleTwoDeepComponent from './components/ExampleTwoDeepComponent';
 
 
 const routes = (
-  <Route path="/incertae-sedis/" mapMenuTitle="Home" component={App}>
+  <Route path="/incertae-sedis" mapMenuTitle="Home" component={App}>
     <IndexRoute component={Home} />
     <Route path="/incertae-sedis/example" mapMenuTitle="Example" component={ExampleComponent}>
       <Route path="/incertae-sedis/two-deep" mapMenuTitle="Two Deep" component={ExampleTwoDeepComponent} />
