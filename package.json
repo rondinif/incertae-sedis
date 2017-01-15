@@ -1,7 +1,7 @@
 {
-  "name": "spa-github-pages",
+  "name": "ncertae-sedis",
   "version": "3.0.0",
-  "description": "Single Page Apps for GitHub Pages",
+  "description": "Experimental testbeds to produce some witty program",
   "scripts": {
     "start": "webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress"
   },
@@ -9,8 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/rondinif/incertae-sedis.git"
   },
-  "author": "Rafael Pedicini <code@rafrex.com>",
-  "license": "MIT",
+  "author": "Franco Rondini",
+  "license": "BSD 2-Clause License",
   "dependencies": {
     "react": "^15.4.1",
     "react-dom": "^15.4.1",
