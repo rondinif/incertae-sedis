@@ -26,4 +26,6 @@ render(
     routes={routes}
   />,
   document.getElementById('root'),
+
+  // FR: ReactDOM.render(Routes, document.querySelector('.container'));
 );
