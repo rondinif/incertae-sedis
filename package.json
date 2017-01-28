@@ -1,9 +1,12 @@
 {
-  "name": "ncertae-sedis",
+  "name": "incertae-sedis",
   "version": "3.0.0",
   "description": "Experimental testbeds to produce some witty program",
   "scripts": {
-    "start": "webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress",
+    "build": "webpack -p && echo \"build successfully completed\"",
+    "start": "webpack-dev-server --inline --host 0.0.0.0 --history-api-fallback --progress",
+    "start-debug": "rm build/bundle.js && webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress",
+    "chromedbg": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --remote-debugging-port=9222 http://localhost:8080/incertae-sedis/",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },

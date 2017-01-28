@@ -4,6 +4,7 @@ import { Link } from 'react-router';
 import s from '../styles/home.style';
 
 function Home() {
+  console.log("home");
   const repoReadmeLink = text => (
     <Interactive
       as="a"
