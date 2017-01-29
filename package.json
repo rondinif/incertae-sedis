@@ -3,10 +3,10 @@
   "version": "3.0.0",
   "description": "Experimental testbeds to produce some witty program",
   "scripts": {
-    "build": "webpack -p && echo \"build completed - ready for local http static content test \"",
-    "build-commit": "rm -f incertae-sedis/bundle.js && rm -f incertae-sedis/bundle.js && webpack -p && mv incertae-sedis/bundle.js ./ && echo \"build completed - ready to commit \"",
+    "build": "rm -f incertae-sedis/bundle.js && rm -f incertae-sedis/bundle.js && webpack -p && cp incertae-sedis/bundle.js . && echo \"build completed - ready for static http serving from parent folder \"",
+    "build-commit": "rm -f incertae-sedis/bundle.js && rm -f incertae-sedis/bundle.js && webpack -p && mv incertae-sedis/bundle.js ./ && echo \"build completed \"",
     "start": "webpack-dev-server --inline --host 0.0.0.0 --history-api-fallback --progress",
-    "start-debug": "rm -f incertae-sedis/bundle.js && webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress",
+    "start-debug": "rm -f bundle.js && rm -f incertae-sedis/bundle.js && webpack-dev-server -d --inline --host 0.0.0.0 --history-api-fallback --progress",
     "chromedbg": "/Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --remote-debugging-port=9222 http://localhost:8080/incertae-sedis/",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
