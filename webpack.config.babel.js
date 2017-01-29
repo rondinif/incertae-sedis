@@ -3,8 +3,8 @@ import webpack from 'webpack';
 export default {
   entry: `${__dirname}/src/index.js`,
   output: {
-    path: `${__dirname}/build`,
-    publicPath: '/build/',
+    path: `${__dirname}/incertae-sedis`,
+    publicPath: '/incertae-sedis/',
     filename: 'bundle.js',
   },
 
