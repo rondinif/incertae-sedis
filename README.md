@@ -9,7 +9,7 @@ git clone https://github.com/rondinif/incertae-sedis.git
 cd incertae-sedis
 git checkout gh-pages
 ```
-ow
+
 ### Development & Live Debug 
 ``` bash 
 cd ~/projects/rondinif/incertae-sedis
@@ -68,8 +68,16 @@ git push origin :gh-pages
 git push origin gh-pages
 ```
 
+# Live examples
+## starts from a refererer  
+https://sites.google.com/site/stillunamed/lab01/incertae-sedis-ghpages
+or follow this examples
 
+- [home: http://rondinif.github.io/incertae-sedis][home]
+    - [example: http://rondinif.github.io/incertae-sedis][example]  
+        - [two-deep: https://rondinif.github.io/incertae-sedis/example/two-deep?field1=foo&field2=bar#boom!][two-deep]  
 
-[Live example][liveExample]  
 <!--  http://username.github.io/repository. -->
-[liveExample]: http://rondinif.github.io/incertae-sedis
+[root]: http://rondinif.github.io/incertae-sedis
+[example]: https://rondinif.github.io/incertae-sedis/example
+[two-deep]: https://rondinif.github.io/incertae-sedis/example/two-deep?field1=foo&field2=bar#boom!
