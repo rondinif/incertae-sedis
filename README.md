@@ -1,8 +1,11 @@
 # Incertae Sedis
 Experimental testbeds to produce some witty program
 
-## ALM Proof of comcepts
-### cloning repo branch 
+## ALM Proof of Concept (PoC)
+basic guidelines to outline the procedures that govern the Change Management process of 
+https://rondinif.github.io/incertae-sedis/ 
+
+### Cloning repo **gh-pages** branch 
 ``` bash
 cd ~/projects/rondinif
 git clone https://github.com/rondinif/incertae-sedis.git
@@ -38,7 +41,6 @@ before starting the debug session in vscode I prefer to quit **Google Chrome**  
 - select debugging profile 
     - "Launch Chrome against localhost, with sourcemaps"
     - Debug: Start Debugging [F5]
-```
 
 ### Preview in localhost static web-server  
 This is an optional step: 
@@ -54,7 +56,6 @@ Open a browser and navigate on http://localhost:8000/incertae-sedis
 some know issues esists related to using this way to preview the site
 but sometime has helped me to figure out how this single page webapplication 
 could behave on a static http webserver. 
-###
 
 ### Preview in localhost static web-server  
 ``` bash
@@ -69,15 +70,12 @@ git push origin gh-pages
 ```
 
 # Live examples
-## starts from a refererer  
 https://sites.google.com/site/stillunamed/lab01/incertae-sedis-ghpages
-or follow this examples
-
 - [home: http://rondinif.github.io/incertae-sedis][home]
     - [example: http://rondinif.github.io/incertae-sedis][example]  
         - [two-deep: https://rondinif.github.io/incertae-sedis/example/two-deep?field1=foo&field2=bar#boom!][two-deep]  
 
 <!--  http://username.github.io/repository. -->
-[root]: http://rondinif.github.io/incertae-sedis
+[home]: http://rondinif.github.io/incertae-sedis
 [example]: https://rondinif.github.io/incertae-sedis/example
 [two-deep]: https://rondinif.github.io/incertae-sedis/example/two-deep?field1=foo&field2=bar#boom!
