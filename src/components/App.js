@@ -12,27 +12,7 @@ function App({ children, routes }) {
   
   function generateMapMenu() {
     let path = '';
-    /*
-    let index = 'home'
 
-    function nextPath(route) {
-      path += (
-        (path.slice(-1) === '/' ? '' : '/') +
-        (route.path === 'incertae-sedis' ? '' : route.path)
-      );
-      return path;
-    }
-
-    return(
-      <span key={index}>
-        <Interactive
-          as={Link}
-          {...s.link}
-          to="/incertae-sedis"
-        >Home</Interactive>
-      </span>
-    );
-    */ 
     function nextPath(route) {
       path += (
         (path.slice(-1) === '/' ? '' : '/') +
@@ -59,7 +39,6 @@ function App({ children, routes }) {
     );
   }
   
-
   return (
     <div style={s.root}>
       <h1 style={s.title}>Incertae Sedis GitHub Repo</h1>

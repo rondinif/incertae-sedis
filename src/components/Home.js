@@ -31,6 +31,13 @@ function Home() {
         <Interactive
           as={Link}
           {...s.link}
+          to="incertae-sedis/photos"
+        >Photos</Interactive>
+      </div>
+            <div style={s.pageLinkContainer}>
+        <Interactive
+          as={Link}
+          {...s.link}
           to="incertae-sedis/example"
         >Example page</Interactive>
       </div>
